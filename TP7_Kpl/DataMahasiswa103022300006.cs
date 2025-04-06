@@ -18,7 +18,7 @@ public class DataMahasiswa103022300006
     public class Mahasiswa
     {
         public Nama nama { get; set; }
-        public string nim { get; set; }
+        public String nim { get; set; }
         public string fakultas { get; set; }
     }
 

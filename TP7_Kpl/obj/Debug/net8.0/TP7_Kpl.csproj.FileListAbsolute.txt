@@ -1,0 +1,17 @@
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\TP7_Kpl.exe
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\TP7_Kpl.deps.json
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\TP7_Kpl.runtimeconfig.json
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\TP7_Kpl.dll
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\TP7_Kpl.pdb
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.AssemblyInfoInputs.cache
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.AssemblyInfo.cs
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.sourcelink.json
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.dll
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\refint\TP7_Kpl.dll
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.pdb
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.genruntimeconfig.cache
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\obj\Debug\net8.0\ref\TP7_Kpl.dll
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\tp7_1_103022300006.json
+C:\Users\Naufal\Documents\KPL\Tp7_KPL\TP7_Kpl\bin\Debug\net8.0\tp7_2_103022300006.json

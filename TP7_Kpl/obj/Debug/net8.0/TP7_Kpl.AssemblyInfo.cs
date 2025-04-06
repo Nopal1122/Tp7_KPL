@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP7_Kpl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025990620b090dd2d5e27efffc60af266662120c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd50251d2e254dcbe4ef016fc8798c5c0fe3dd69")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP7_Kpl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP7_Kpl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

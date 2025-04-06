@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|c:\\users\\naufal\\documents\\kpl\\tp7_kpl\\tp7_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|solutionrelative:tp7_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|c:\\users\\naufal\\documents\\kpl\\tp7_kpl\\tp7_kpl\\tp7_1_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|solutionrelative:tp7_kpl\\tp7_1_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|c:\\users\\naufal\\documents\\kpl\\tp7_kpl\\tp7_kpl\\tp7_2_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|solutionrelative:tp7_kpl\\tp7_2_103022300006.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|c:\\users\\naufal\\documents\\kpl\\tp7_kpl\\tp7_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|solutionrelative:tp7_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|c:\\users\\naufal\\documents\\kpl\\tp7_kpl\\tp7_kpl\\datamahasiswa103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|solutionrelative:tp7_kpl\\datamahasiswa103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|c:\\users\\naufal\\documents\\kpl\\tp7_kpl\\tp7_kpl\\kuliahmahasiswa103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51F9FA8-CD6A-4AFD-9F69-6F1057D78FBF}|TP7_Kpl\\TP7_Kpl.csproj|solutionrelative:tp7_kpl\\kuliahmahasiswa103022300006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "KuliahMahasiswa103022300006.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\KuliahMahasiswa103022300006.cs",
+              "RelativeDocumentMoniker": "TP7_Kpl\\KuliahMahasiswa103022300006.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\KuliahMahasiswa103022300006.cs",
+              "RelativeToolTip": "TP7_Kpl\\KuliahMahasiswa103022300006.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:49:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tp7_2_103022300006.json",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\tp7_2_103022300006.json",
+              "RelativeDocumentMoniker": "TP7_Kpl\\tp7_2_103022300006.json",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\tp7_2_103022300006.json",
+              "RelativeToolTip": "TP7_Kpl\\tp7_2_103022300006.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T16:49:26.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DataMahasiswa103022300006.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\DataMahasiswa103022300006.cs",
               "RelativeDocumentMoniker": "TP7_Kpl\\DataMahasiswa103022300006.cs",
               "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\DataMahasiswa103022300006.cs",
               "RelativeToolTip": "TP7_Kpl\\DataMahasiswa103022300006.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T16:43:43.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "tp7_1_103022300006.json",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\tp7_1_103022300006.json",
               "RelativeDocumentMoniker": "TP7_Kpl\\tp7_1_103022300006.json",
               "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\tp7_1_103022300006.json",
               "RelativeToolTip": "TP7_Kpl\\tp7_1_103022300006.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-06T16:41:17.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\Program.cs",
               "RelativeDocumentMoniker": "TP7_Kpl\\Program.cs",
               "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\TP7_Kpl\\TP7_Kpl\\Program.cs",
               "RelativeToolTip": "TP7_Kpl\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T15:10:40.603Z",
               "EditorCaption": ""
