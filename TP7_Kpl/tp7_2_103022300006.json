@@ -1,0 +1,32 @@
+{
+  "mata_kuliah": [
+    {
+      "kode": "CRI2C4",
+      "nama": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "kode": "CCK2HAB4",
+      "nama": "Basis data"
+    },
+    {
+      "kode": "CCK2FAB4",
+      "nama": "Arsitektur perangkat lunak"
+    },
+    {
+      "kode": "CCK2JAC2",
+      "nama": "Proyek tingkat 2"
+    },
+    {
+      "kode": "CCK2FAB4",
+      "nama": "Arsitektur dan desain perangkat lunak"
+    },
+    {
+      "kode": "CCK2LAB3",
+      "nama": "Kecerdasan buatan"
+    },
+    {
+      "kode": "CCK2IAB3",
+      "nama": "Dasar jaringan komputer"
+    }
+  ]
+}
