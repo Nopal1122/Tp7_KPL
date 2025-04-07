@@ -14,3 +14,4 @@ D:\Nabil\Tugas kuliah\Semester 4\TP\Jawaban\Kontruksi PL\tpmodul7\TP7_Kpl\obj\De
 D:\Nabil\Tugas kuliah\Semester 4\TP\Jawaban\Kontruksi PL\tpmodul7\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.pdb
 D:\Nabil\Tugas kuliah\Semester 4\TP\Jawaban\Kontruksi PL\tpmodul7\TP7_Kpl\obj\Debug\net8.0\TP7_Kpl.genruntimeconfig.cache
 D:\Nabil\Tugas kuliah\Semester 4\TP\Jawaban\Kontruksi PL\tpmodul7\TP7_Kpl\obj\Debug\net8.0\ref\TP7_Kpl.dll
+D:\Nabil\Tugas kuliah\Semester 4\TP\Jawaban\Kontruksi PL\tpmodul7\TP7_Kpl\bin\Debug\net8.0\tp7_2_103022300095.json
