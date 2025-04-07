@@ -6,17 +6,17 @@ namespace TP7_Kpl
     {
         static void Main(string[] args)
         {
-            // Deserialisasi Data Mahasiswa
+            
             Console.WriteLine("=== DATA MAHASISWA ===");
             DataMahasiswa_103022330128.ReadJSON();
 
-            Console.WriteLine("\n"); // Spasi
+            Console.WriteLine("\n"); 
 
-            // Deserialisasi Mata Kuliah
+            
             Console.WriteLine("=== DAFTAR MATA KULIAH ===");
             KuliahMahasiswa_103022330128.ReadJSON();
 
-            Console.ReadLine(); // Biarkan console terbuka
+            Console.ReadLine(); 
         }
     }
 }
