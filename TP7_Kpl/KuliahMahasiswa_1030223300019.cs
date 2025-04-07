@@ -20,7 +20,7 @@ namespace TP7_Kpl
 			string jsonString = File.ReadAllText(jsonPath);
             KuliahMahasiswa_1030223300019 data = JsonSerializer.Deserialize<KuliahMahasiswa_1030223300019>(jsonString);
 
-			Console.WriteLine("Daftar mata kuliah yang diambil:");
+			Console.WriteLine("Daftar mata kuliah yang diambil :");
 			for (int i = 0; i < data.courses.Length; i++)
 			{
 				Console.WriteLine($"MK {i + 1} {data.courses[i].code} - {data.courses[i].name}");
