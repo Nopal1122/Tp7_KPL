@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace TP7_Kpl
 {
@@ -15,6 +15,14 @@ namespace TP7_Kpl
             KuliahMahasiswa_1030223300019.ReadJSON();
 
             Console.ReadLine(); 
+          
+            Console.WriteLine("=== DATA MAHASISWA ===");
+            DataMahasiswa103022300145.ReadJSON();
+
+            Console.WriteLine("\n"); 
+
+            Console.WriteLine("=== DAFTAR MATA KULIAH ===");
+            KuliahMahasiswa103022300145.ReadJSON();
         }
     }
 }
