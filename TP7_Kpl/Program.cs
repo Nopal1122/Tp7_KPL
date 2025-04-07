@@ -1,9 +1,28 @@
-﻿class program
+using System;
+
+namespace TP7_Kpl
 {
-    static void Main(string[] args)
+    class Program
     {
-        DataMahasiswa103022300145.ReadJSON();
-        Console.WriteLine();
-        KuliahMahasiswa103022300145.ReadJSON();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("=== DATA MAHASISWA ===");
+            DataMahasiswa_1038223300019.ReadJSON();
+
+            Console.WriteLine("\n"); 
+
+            Console.WriteLine("=== DAFTAR MATA KULIAH ===");
+            KuliahMahasiswa_1030223300019.ReadJSON();
+
+            Console.ReadLine(); 
+          
+            Console.WriteLine("=== DATA MAHASISWA ===");
+            DataMahasiswa103022300145.ReadJSON();
+
+            Console.WriteLine("\n"); 
+
+            Console.WriteLine("=== DAFTAR MATA KULIAH ===");
+            KuliahMahasiswa103022300145.ReadJSON();
+        }
     }
 }
